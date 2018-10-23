@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KKProgram_Client"
         mc:Ignorable="d"
-        Title="Новая сессия" Height="400" Width="600" ResizeMode="NoResize">
+        Title="Новая сессия" WindowStartupLocation="CenterScreen" Height="400" Width="600" ResizeMode="NoResize">
     <Window.Resources>
         <Style TargetType="ComboBox">
             <Setter Property="Margin" Value="3"/>

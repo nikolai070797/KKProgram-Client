@@ -32,6 +32,10 @@ namespace KKProgram_Client
             ID = autoincrement++;
             devices.Add(this);
         }
+        public DataDevice(AddGroup  name)
+        {
+            Status = AddGroup.name;
+        }
 
         public static void Save() // Сохранение списка
         {
@@ -59,6 +63,12 @@ namespace KKProgram_Client
 
         }
 
+        public void Delete()
+        {
+            devices.Remove(this);
+            System.Windows.MessageBox.Show("Удаление прошло успешно. \n Не забудьте сохранить список", "Внимание");
+        }
+
 
         public async void StartTimer(uint minutesCount)
         {
@@ -71,9 +81,6 @@ namespace KKProgram_Client
             }).Wait();*/
         }
 
-        public static void Delete()
-        {
-            
-        }
+        
     }
 }

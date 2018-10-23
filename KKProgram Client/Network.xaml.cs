@@ -194,10 +194,6 @@ namespace KKProgram_Client
                 
             }
 
-            /*var array = tasks.ToArray();
-            for (int i1 = 0; i1 < array.Length; i1++)
-                array[i1].Start();
-            Task.WaitAll(array);*/
         }
 
         private void PowerOn_Click(object sender, RoutedEventArgs e)

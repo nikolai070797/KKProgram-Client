@@ -47,4 +47,8 @@ C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\Network.g.cs
 C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\Network.baml
 C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\Network.g.cs
 C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\AddGroup.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\ListGroup.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\AddGroup.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\ListGroup.baml
 C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csprojAssemblyReference.cache

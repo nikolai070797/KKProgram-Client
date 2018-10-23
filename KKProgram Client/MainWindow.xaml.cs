@@ -46,8 +46,8 @@ namespace KKProgram_Client
 
         private void tariff(object sender, RoutedEventArgs e)
         {
-            listtariff r = new listtariff();
-            r.ShowDialog();
+            listtariff tar = new listtariff();
+            tar.ShowDialog();
         }
 
         private void report(object sender, RoutedEventArgs e)
@@ -62,6 +62,12 @@ namespace KKProgram_Client
             net.ShowDialog();
         }
 
+        private void EditGroup(object sender, RoutedEventArgs e)
+        {
+            ListGroup gr = new ListGroup();
+            gr.ShowDialog();
+        }
+
         private void SaveListDevice(object sender, RoutedEventArgs e)
         {
             DataDevice.Save();
@@ -70,23 +76,20 @@ namespace KKProgram_Client
         private void DeleteDevice(object sender, RoutedEventArgs e)
         {
             if (listItems.SelectedIndex == -1)
-                return;
+                MessageBox.Show("Выберите компьютер", "Внимание");
 
             if (listItems.SelectedItem is DataDevice)
             {
-
-
-
-
-
+                
                 DataDevice delete = (DataDevice)listItems.SelectedItem;
                 if (MessageBox.Show("Данное действие безвозвратно удалит объект из базы данных. Вы уверены?", "Предупреждение", MessageBoxButton.OKCancel) == MessageBoxResult.OK)
                 {
+
                     delete.Delete();
-                    //delete.Delete();
-                    //listItems.ItemsSource = DataDevice.SelectAll();
                 }
             }
         }
+
+        
     }
 }

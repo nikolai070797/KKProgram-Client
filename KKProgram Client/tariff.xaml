@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KKProgram_Client"
         mc:Ignorable="d"
-        Title="Тариф" Height="330" Width="400" MinHeight="300" MaxWidth="700" MaxHeight="610" ResizeMode="NoResize">
+        Title="Тариф"  WindowStartupLocation="CenterScreen" Height="330" Width="400" MinHeight="300" MaxWidth="700" MaxHeight="610" ResizeMode="NoResize">
     <Window.Resources>
         <Style TargetType="ComboBox">
             <Setter Property="Margin" Value="3"/>

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KKProgram_Client"
         mc:Ignorable="d"
-        Title="Управление компьютерами" Width="930" MinHeight="140" MinWidth="420" Height="500">
+        Title="Управление компьютерами" WindowStartupLocation="CenterScreen" Width="930" MinHeight="140" MinWidth="420" Height="500">
     <Window.Resources>
         <Style TargetType="MenuItem">
             <Setter Property="Margin" Value="3"/>
@@ -48,7 +48,7 @@
                     
                     <MenuItem Header="Сохранить список" Click="SaveListDevice" />
                     <MenuItem Header="Удалить компьютер" Click="DeleteDevice" />
-                    <MenuItem Header="???"  />
+                    <MenuItem Header="Изменить группу компьютера" Click="EditGroup"  />
                 </MenuItem>
             </MenuItem>
             <MenuItem Header="Печать" FontSize="14"/>
