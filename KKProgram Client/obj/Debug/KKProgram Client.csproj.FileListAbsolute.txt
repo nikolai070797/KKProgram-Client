@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\App.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client_MarkupCompile.cache
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client_MarkupCompile.lref
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.exe.config
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.exe
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.pdb
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.g.resources
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram_Client.Properties.Resources.resources
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.exe
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.pdb
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.exe.config
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.exe
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\bin\Debug\KKProgram Client.pdb
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\App.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client_MarkupCompile.cache
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client_MarkupCompile.lref
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.g.resources
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram_Client.Properties.Resources.resources
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.exe
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.pdb
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\newsession.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\newsession.baml
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\listtariff.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\tariff.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\listtariff.baml
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\tariff.baml
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\report.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\report.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\listtariff.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\newsession.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\report.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\tariff.g.cs
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\listtariff.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\newsession.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\report.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\tariff.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\Network.baml
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\Network.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\Network.baml
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\Network.g.cs
+C:\Users\User\source\repos\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csprojAssemblyReference.cache
+C:\Users\User\Desktop\KKProgram Client\KKProgram Client\obj\Debug\KKProgram Client.csprojAssemblyReference.cache
